@@ -1,17 +1,19 @@
 ![Hi 👋, I'm Daniel Esteves, a fullstack developer 👨‍💻 from Caracas, Venezuela 🇻🇪](https://raw.githubusercontent.com/danestves/danestves/master/public/cover.jpeg)
 
+<h2 align="center" style="margin-bottom: 0;">Sigueme en:</h2>
+
 <p align="center">
-   <a href="https://youtube.com/danesteves" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="48px" width="48px" />
+  <a href="https://youtube.com/danesteves" target="_blank" rel="noopener noreferrer" style="margin-right: 4px; text-decoration: none;">
+    <img align="center" src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="danesteves" width="40px" />
   </a>
-  <a href="https://twitter.com/danestves" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="48px" width="48px" />
+  <a href="https://twitter.com/danestves" target="_blank" rel="noopener noreferrer" style="margin-right: 4px; text-decoration: none;">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="danestves" width="32px" />
   </a>
-  <a href="https://fb.com/danestvesve" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev.frontend" height="48px" width="48px" />
+  <a href="https://fb.com/danestvesve" target="_blank" rel="noopener noreferrer" style="margin-right: 4px; text-decoration: none;">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="danestvesve" width="32px" />
   </a>
-  <a href="https://instagram.com/danestves" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="48px" width="48px" />
+  <a href="https://instagram.com/danestves" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="danestves" width="40px" />
   </a>
 </p>
 
