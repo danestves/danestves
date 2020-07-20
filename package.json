@@ -6,6 +6,7 @@
   "repository": "git@github.com:danestves/danestves.git",
   "author": "Daniel Esteves <estevesd8@gmail.com>",
   "license": "ISC",
+  "type": "module",
   "private": true,
   "scripts": {
     "update-readme": "node src/index.js"
