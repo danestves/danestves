@@ -9,7 +9,7 @@ const parser = new Parser();
 const { YOUTUBE_API_KEY, YOUTUBE_PLAYLIST_ID, URL_RSS } = process.env;
 
 const getLatestArticlesFromBlog = () =>
-  parser.parseURL(`${URL_RSS}`).then((data) => data.items);
+  parser.parseURL(URL_RSS).then((data) => data.items);
 
 const getLatestYoutubeVideos = () =>
   fetch(
