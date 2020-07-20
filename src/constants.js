@@ -9,4 +9,5 @@ export const NUMBER_OF = {
 export const PLACEHOLDERS = {
   LATEST_ARTICLES: "%{{latest_articles}}%",
   LATEST_YOUTUBE: "%{{latest_youtube}}%",
+  IMAGES_SIZE: "%{{image_size}}%"
 };

@@ -1,28 +1,24 @@
-![Hi 👋, I'm Miguel Ángel, A passionate frontend developer 👨‍💻 from Barcelona, Spain 🇪🇸](https://user-images.githubusercontent.com/1561955/87921826-64412300-ca7b-11ea-82b3-944145ae77fa.png)
+![Hi 👋, I'm Daniel Esteves, a fullstack developer 👨‍💻 from Caracas, Venezuela 🇻🇪](https://raw.githubusercontent.com/danestves/danestves/master/public/cover.jpg)
 
 <p align="center">
-   <a href="https://youtube.com/midudev" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
+   <a href="https://youtube.com/danesteves" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="%{{image_size}}%" width="%{{image_size}}%" />
   </a>
-  <a href="https://twitter.com/midudev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+  <a href="https://twitter.com/danestves" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="%{{image_size}}%" width="%{{image_size}}%" />
   </a>
-  <a href="https://fb.com/midudev.frontend" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev.frontend" height="28px" width="28px" />
+  <a href="https://fb.com/danestvesve" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev.frontend" height="%{{image_size}}%" width="%{{image_size}}%" />
   </a>
-  <a href="https://instagram.com/midu.dev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+  <a href="https://instagram.com/danestves" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="%{{image_size}}%" width="%{{image_size}}%" />
   </a>
 </p>
 
-#### 📹 Latest videos on [my Youtube Channel](https://youtube.com/midudev):
+#### 📹 Latest videos on [YouTube](https://youtube.com/danesteves) (Spanish):
 
 %{{latest_youtube}}%
 
-#### 📸 Latest photos on [my Instagram](https://instagram.com/midu.dev):
-
-%{{latest_instagram}}%
-
-#### 📝 Latest articles I wrote on [midu.dev](https://midu.dev):
+#### 📝 Latest articles in [danestves.com](https://danestves.com):
 
 %{{latest_articles}}%
