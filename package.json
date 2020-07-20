@@ -1,0 +1,17 @@
+{
+  "name": "danestves",
+  "version": "1.0.0",
+  "description": "danestves README GitHub profile",
+  "main": "src/index.js",
+  "repository": "git@github.com:danestves/danestves.git",
+  "author": "Daniel Esteves <estevesd8@gmail.com>",
+  "license": "ISC",
+  "private": true,
+  "scripts": {
+    "update-readme": "node src/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "rss-parser": "^3.8.0"
+  }
+}
