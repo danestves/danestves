@@ -30,12 +30,10 @@ const makePromise = async () => {
     getLatestYoutubeVideos(),
   ]);
 
-  console.log(articles)
-
   // create latest articles markdown
   const latestArticlesMarkdown = articles
     .slice(0, NUMBER_OF.ARTICLES)
-    .map(({ title, guid }) => `- [${title}](${guid})`)
+    .map(({ title, link }) => `- [${title}](${link})`)
     .join("\n");
 
   // create latest youtube videos channel
@@ -54,6 +52,6 @@ const makePromise = async () => {
     .replace(PLACEHOLDERS.IMAGES_SIZE, "28px");
 
   await fs.writeFile("README.md", newMarkdown);
-}
+};
 
-makePromise()
+makePromise();
