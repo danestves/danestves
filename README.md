@@ -20,14 +20,14 @@
 #### 📹 Latest videos on [YouTube](https://youtube.com/danesteves) (Spanish):
 
 
+<a href='https://youtu.be/GZIKOOMaJos' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/GZIKOOMaJos/mqdefault.jpg' alt='Desarrollando OpenGraph Images ft. Vurokrazia' />
+</a>
 <a href='https://youtu.be/UiegyFEf5S4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UiegyFEf5S4/mqdefault.jpg' alt='2-. Instalación de NextJS 🚀 | Curso de NextJS | @danestves' />
 </a>
 <a href='https://youtu.be/ml1hWDdRQwY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ml1hWDdRQwY/mqdefault.jpg' alt='1-. ¿Qué es NextJS, SSR y SSG? | Curso de NextJS | @danestves' />
-</a>
-<a href='https://youtu.be/JT79G0OptxI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/JT79G0OptxI/mqdefault.jpg' alt='Configuración de NextJS & TailwindCSS | @danestves' />
 </a>
 
 #### 📝 Latest articles in [danestves.com](https://danestves.com):
