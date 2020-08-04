@@ -21,7 +21,7 @@
 
 
 <a href='https://youtu.be/GZIKOOMaJos' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/GZIKOOMaJos/mqdefault.jpg' alt='Desarrollando OpenGraph Images ft. Vurokrazia' />
+  <img width='30%' src='https://img.youtube.com/vi/GZIKOOMaJos/mqdefault.jpg' alt='Desarrollando OpenGraph Images ft. Vurokrazia | Introducción al proyecto' />
 </a>
 <a href='https://youtu.be/UiegyFEf5S4' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/UiegyFEf5S4/mqdefault.jpg' alt='2-. Instalación de NextJS 🚀 | Curso de NextJS | @danestves' />
