@@ -32,8 +32,8 @@
 
 #### 📝 Latest articles in [danestves.com](https://danestves.com):
 
+- [¿Cómo configurar TailwindCSS con create-react-app?](https://danestves.com/blog/configurar-tailwindcss-con-create-react-app)
 - [¿Cómo tomar capturas de pantalla con Chrome DevTools?](https://danestves.com/blog/capturas-en-chrome-devtools)
 - [AlpineJS: El TailwindCSS para JavaScript](https://danestves.com/blog/alpinejs-tailwindcss-para-javascript)
 - [TailwindCSS, el framework que debes aprender este 2020](https://danestves.com/blog/aprender-tailwindcss-2020)
 - [¿Extrañas jQuery? 🤔 Ya no lo necesitas más](https://danestves.com/blog/no-necesitas-jquery)
-- [useEffect() y useState(): ¿Es buena idea actualizar todo a Hooks?](https://danestves.com/blog/useeffect-usestate-actualizar-hooks)
