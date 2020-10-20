@@ -1,4 +1,4 @@
-![Hi 👋, I'm Daniel Esteves, a fullstack developer 👨‍💻 from Caracas, Venezuela 🇻🇪](https://raw.githubusercontent.com/danestves/danestves/master/public/cover.jpeg)
+![Hi 👋, I'm Daniel Esteves, a fullstack developer 👨‍💻 from Caracas, Venezuela 🇻🇪](https://raw.githubusercontent.com/danestves/danestves/master/public/banner.png)
 
 <h2 align="center" style="margin-bottom: 0;">Sigueme en:</h2>
 
@@ -18,7 +18,6 @@
 </p>
 
 #### 📹 Latest videos on [YouTube](https://youtube.com/danesteves) (Spanish):
-
 
 <a href='https://youtu.be/herhTMVt1Es' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/herhTMVt1Es/mqdefault.jpg' alt='Futuro del canal | @danestves' />

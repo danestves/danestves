@@ -1,4 +1,4 @@
-![Hi 👋, I'm Daniel Esteves, a fullstack developer 👨‍💻 from Caracas, Venezuela 🇻🇪](https://raw.githubusercontent.com/danestves/danestves/master/public/cover.jpeg)
+![Hi 👋, I'm Daniel Esteves, a fullstack developer 👨‍💻 from Caracas, Venezuela 🇻🇪](https://raw.githubusercontent.com/danestves/danestves/master/public/banner.png)
 
 <h2 align="center" style="margin-bottom: 0;">Sigueme en:</h2>
 
