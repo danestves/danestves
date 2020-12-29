@@ -17,6 +17,8 @@
   </a>
 </p>
 
+![Daniel's github stats](https://github-readme-stats.danestves.com/api?username=danestves&show_icons=true&icon_color=00C389&title_color=ffffff&bg_color=071749&text_color=ffffff)
+
 #### 📹 Latest videos on [YouTube](https://youtube.com/danesteves) (Spanish):
 
 %{{latest_youtube}}%
