@@ -17,6 +17,8 @@
   </a>
 </p>
 
+![Daniel's github stats](https://github-readme-stats.danestves.com/api?username=danestves&show_icons=true&icon_color=00C389&title_color=ffffff&bg_color=071749&text_color=ffffff)
+
 #### 📹 Latest videos on [YouTube](https://youtube.com/danesteves) (Spanish):
 
 
@@ -33,7 +35,7 @@
 #### 📝 Latest articles in [danestves.com](https://danestves.com):
 
 - [¿Cómo configurar TailwindCSS con create-react-app?](https://danestves.com/blog/configurar-tailwindcss-con-create-react-app)
-- [¿Cómo tomar capturas de pantalla con Chrome DevTools?](https://danestves.com/blog/capturas-en-chrome-devtools)
-- [AlpineJS: El TailwindCSS para JavaScript](https://danestves.com/blog/alpinejs-tailwindcss-para-javascript)
+- [¿Cómo tomar capturas de pantalla con Chrome DevTools?](https://danestves.com/blog/tomar-capturas-en-chrome-devtools)
+- [AlpineJS: El TailwindCSS para JavaScript](https://danestves.com/blog/alpinejs-el-tailwindcss-para-javascript)
 - [TailwindCSS, el framework que debes aprender este 2020](https://danestves.com/blog/aprender-tailwindcss-2020)
-- [¿Extrañas jQuery? 🤔 Ya no lo necesitas más](https://danestves.com/blog/no-necesitas-jquery)
+- [¿Extrañas jQuery? 🤔  Ya no lo necesitas más](https://danestves.com/blog/ya-no-necesitas-jquery)
