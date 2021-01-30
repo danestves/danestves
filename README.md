@@ -36,6 +36,6 @@
 
 - [AlpineJS: El TailwindCSS para JavaScript](https://danestves.com/blog/alpinejs-el-tailwindcss-para-javascript)
 - [TailwindCSS, el framework que debes aprender este 2020](https://danestves.com/blog/aprender-tailwindcss-2020)
-- [2020: mi viaje de aprendizaje](https://danestves.com/blog/mi-viaje-por-el-2020)
 - [¿Cómo configurar TailwindCSS con create-react-app?](https://danestves.com/blog/configurar-tailwindcss-con-create-react-app)
+- [2020: mi viaje de aprendizaje](https://danestves.com/blog/mi-viaje-por-el-2020)
 - [¿Cómo tomar capturas de pantalla con Chrome DevTools?](https://danestves.com/blog/tomar-capturas-en-chrome-devtools)
