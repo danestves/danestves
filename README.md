@@ -34,8 +34,8 @@
 
 #### 📝 Latest articles in [danestves.com](https://danestves.com):
 
-- [Setup de NextJS + TypeScript + ESLint + Prettier & TailwindCSS](https://danestves.com/blog/nextjs-typescript-eslint-prettier-tailwindcss)
+- [NextJS Boilerplate with TypeScript, ESLint, Prettier, and TailwindCSS](https://danestves.com/en/blog/nextjs-typescript-eslint-prettier-tailwindcss)
+- [Boilerplate de NextJS con TypeScript, ESLint, Prettier y TailwindCSS](https://danestves.com/blog/nextjs-typescript-eslint-prettier-tailwindcss)
+- [React: from PropTypes to TypeScript](https://danestves.com/en/blog/react-from-prop-types-to-typescript)
 - [React: de PropTypes a TypeScript](https://danestves.com/blog/react-de-prop-types-a-typescript)
-- [2020: mi viaje de aprendizaje](https://danestves.com/blog/mi-viaje-por-el-2020)
-- [¿Cómo configurar TailwindCSS con create-react-app?](https://danestves.com/blog/configurar-tailwindcss-con-create-react-app)
-- [¿Cómo tomar capturas de pantalla con Chrome DevTools?](https://danestves.com/blog/tomar-capturas-en-chrome-devtools)
+- [2020: my learning journey](https://danestves.com/en/blog/my-trip-for-2020)
