@@ -36,6 +36,6 @@
 
 - [NextJS Boilerplate with TypeScript, ESLint, Prettier, and TailwindCSS](https://danestves.com/en/blog/nextjs-typescript-eslint-prettier-tailwindcss)
 - [Boilerplate de NextJS con TypeScript, ESLint, Prettier y TailwindCSS](https://danestves.com/blog/nextjs-typescript-eslint-prettier-tailwindcss)
-- [React: from PropTypes to TypeScript](https://danestves.com/en/blog/react-from-prop-types-to-typescript)
+- [React: from PropTypes to TypeScript](https://danestves.com/en/blog/react-de-prop-types-a-typescript)
 - [React: de PropTypes a TypeScript](https://danestves.com/blog/react-de-prop-types-a-typescript)
-- [2020: my learning journey](https://danestves.com/en/blog/my-trip-for-2020)
+- [2020: my learning journey](https://danestves.com/en/blog/mi-viaje-por-el-2020)
