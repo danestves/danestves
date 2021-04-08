@@ -22,14 +22,14 @@
 #### 📹 Latest videos on [YouTube](https://youtube.com/danesteves) (Spanish):
 
 
+<a href='https://youtu.be/MYrMOKtnAFY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MYrMOKtnAFY/mqdefault.jpg' alt='🔴 Redes sociales para desarrollo y diseño | UndefinedDevs' />
+</a>
 <a href='https://youtu.be/GFpFI21dZj0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/GFpFI21dZj0/mqdefault.jpg' alt='3. Configurando ESLint, Prettier, lint-staged y Husky | Curso de #NextJS' />
 </a>
 <a href='https://youtu.be/cCCQYMLZ1W0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/cCCQYMLZ1W0/mqdefault.jpg' alt='2. Iniciando nuestro proyecto de NextJS | Curso de #NextJS' />
-</a>
-<a href='https://youtu.be/ZClxlR9jGH8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZClxlR9jGH8/mqdefault.jpg' alt='1. ¿Qué es NextJS? La nueva manera de crear aplicaciones en React | Curso de #NextJS' />
 </a>
 
 #### 📝 Latest articles in [danestves.com](https://danestves.com):
