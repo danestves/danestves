@@ -34,8 +34,8 @@
 
 #### 📝 Latest articles in [danestves.com](https://danestves.com):
 
-- [Automatically generate your og:image with React](https://danestves.com/en/blog/genera-automaticamente-og-image-con-react)
-- [Genera automaticamente tus og:image con React](https://danestves.com/blog/genera-automaticamente-og-image-con-react)
-- [How to get started with TailwindCSS? VSCode extensions and more](https://danestves.com/en/blog/como-iniciar-con-tailwindcss)
-- [¿Cómo iniciar con TailwindCSS? Extensiones de VSCode y más](https://danestves.com/blog/como-iniciar-con-tailwindcss)
-- [NextJS Boilerplate with TypeScript, ESLint, Prettier, and TailwindCSS](https://danestves.com/en/blog/nextjs-typescript-eslint-prettier-tailwindcss)
+- [Automatically generate your og:image with React | @danestves](http://danestves.com/en/blog/automatically-generate-your-ogimage-with-react-ckmsgs7cwqj0o0c817wvtpojn)
+- [How to get started with TailwindCSS? | @danestves](http://danestves.com/en/blog/how-to-get-started-with-tailwindcss-vscode-extensions-and-more-ckmsbs7f4qa8d0c81g79bp228)
+- [NextJS, TypeScript, ESLint and TailwindCSS | @danestves](http://danestves.com/en/blog/nextjs-boilerplate-with-typescript-eslint-prettier-and-tailwindcss-ckmshkvrkqkcq0c81ny2c25ri)
+- [React: from PropTypes to TypeScript | @danestves](http://danestves.com/en/blog/react-from-proptypes-to-typescript-ckmshwss0qnx60c79auzq9op2)
+- [2020: my learning journey | @danestves](http://danestves.com/en/blog/2020-my-learning-journey-ckmshd9ugqnjs0b68c62g2893)
