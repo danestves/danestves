@@ -34,8 +34,8 @@
 
 #### 📝 Latest articles in [danestves.com](https://danestves.com):
 
-- [How to create awesome og:images using React components | @danestves](http://danestves.com/en/blog/how-to-create-awesome-ogimages-using-react-components-ckmsgs7cwqj0o0c817wvtpojn)
-- [TailwindCSS - What it is & How to Get Started with Visual Studio Code | @danestves](http://danestves.com/en/blog/tailwindcss-what-it-is-and-how-to-get-started-with-visual-studio-code-ckmsbs7f4qa8d0c81g79bp228)
-- [A boilerplate for NextJS with TypeScript, ESLint, Prettier and TailwindCSS | @danestves](http://danestves.com/en/blog/nextjs-boilerplate-with-typescript-eslint-prettier-and-tailwindcss-ckmshkvrkqkcq0c81ny2c25ri)
-- [How TypeScript Enforced Cleaner Architecture in React App | @danestves](http://danestves.com/en/blog/how-typescript-enforced-cleaner-architecture-in-react-app-ckmshwss0qnx60c79auzq9op2)
-- [2020: The Year of 10x Growth | @danestves](http://danestves.com/en/blog/2020-the-year-of-10x-growth-ckmshd9ugqnjs0b68c62g2893)
+- [How to create awesome og:images using React components | @danestves](https://danestves.com/en/blog/how-to-create-awesome-ogimages-using-react-components-ckmsgs7cwqj0o0c817wvtpojn)
+- [TailwindCSS - What it is & How to Get Started with Visual Studio Code | @danestves](https://danestves.com/en/blog/tailwindcss-what-it-is-and-how-to-get-started-with-visual-studio-code-ckmsbs7f4qa8d0c81g79bp228)
+- [A boilerplate for NextJS with TypeScript, ESLint, Prettier and TailwindCSS | @danestves](https://danestves.com/en/blog/nextjs-boilerplate-with-typescript-eslint-prettier-and-tailwindcss-ckmshkvrkqkcq0c81ny2c25ri)
+- [How TypeScript Enforced Cleaner Architecture in React App | @danestves](https://danestves.com/en/blog/how-typescript-enforced-cleaner-architecture-in-react-app-ckmshwss0qnx60c79auzq9op2)
+- [2020: The Year of 10x Growth | @danestves](https://danestves.com/en/blog/2020-the-year-of-10x-growth-ckmshd9ugqnjs0b68c62g2893)
