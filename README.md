@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**danestves/danestves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter](https://img.shields.io/twitter/follow/danestves?style=social)](https://twitter.com/danestves)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6YYVDKZC3mu1iB8IOCFqcw?style=social)](https://youtube.com/danesteves?sub_confirmation=1)
+[![GitHub](https://img.shields.io/github/followers/danestves?style=social)](https://github.com/danestves)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on @reworthrewards as a Senior Frontend Engineer
+- 🌱 I’m currently learning UI/UX
+- 👯 I’m looking to collaborate on OSS projects
+- 💬 Ask me about why aliens haven't contacted us yet 🤪
+- 📫 How to reach me: me+github@danestves.com
+- ⚡ Fun fact: I'm also a content creator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ts
+let danestves: Profile = {
+  pronouns: "he/him",
+  languages: ["Spanish", "English"],
+  code: ["JavaScript", "HTML", "CSS"],
+  tools: ["React", "Next.js", "Gatsby", "Remix", "Vue", "Nuxt", "Node.js", "Prisma", "GraphQL"],
+  links: {
+    blog: "https://danestves.com/blog", // ✍️
+    youtube: "https://youtube.com/danesteves", // 🎬
+    instagram: "https://instagram.com/danestves", // 📷
+    twitter: "https://twitter.com/danestves", // 🐤
+    linkedin: "https://linkedin.com/in/danestves" // 💼
+  },
+};
+```
