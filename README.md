@@ -18,7 +18,7 @@ let danestves: Profile = {
   code: ["JavaScript", "HTML", "CSS"],
   tools: ["React", "Next.js", "Gatsby", "Remix", "Vue", "Nuxt", "Node.js", "Prisma", "GraphQL"],
   links: {
-    blog: "https://danestves.com/blog", // ✍️
+    blog: "https://danestves.com", // ✍️
     youtube: "https://youtube.com/danesteves", // 🎬
     instagram: "https://instagram.com/danestves", // 📷
     twitter: "https://twitter.com/danestves", // 🐤
